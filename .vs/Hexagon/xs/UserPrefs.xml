@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{E7AF436B-6594-29EB-35E1-7CD11A22990A}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/testing.cs">
+    <Files>
+      <File FileName="Assets/EnemyMover.cs" Line="1" Column="1" IsPinned="True" />
+      <File FileName="Assets/PlayerMover.cs" Line="1" Column="1" IsPinned="True" />
+      <File FileName="Assets/WorldBuilder.cs" Line="31" Column="38" IsPinned="True" />
+      <File FileName="Assets/Movement.cs" />
+      <File FileName="Assets/GameController.cs" />
+      <File FileName="Assets/HealthBarEditor.cs" />
+      <File FileName="Assets/HealthTracker.cs" />
+      <File FileName="Assets/IntroController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Jumper.cs" />
+      <File FileName="Assets/testing.cs" Line="16" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Hexagon" expanded="True">
+            <Node name="Assets" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="100a6829-a692-4547-a127-60b4c8c31b42" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
